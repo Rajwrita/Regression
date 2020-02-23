@@ -7,7 +7,7 @@ Firstly, we want to study the nature and extent of association, if any, between 
 ### What is Linear Regression?
 To find the relationship between continuous correlated variables we use linear regression. Linear regression looks for a statistical  relationship between a set of correlated values. The representation is a linear equation that combines a specific set of input values (x) the solution to which is the predicted output for that set of input values (y). As such, both the input values (x) and the output value are numeric. When there is a single input variable (x), the method is referred to as simple linear regression. When there are multiple input variables,the method is referred to as multiple linear regression.
 
-Link to my [Medium Blog](https://medium.com/p/3c972cb77c74/edit)
+Link to my [Medium Blog](https://medium.com/p/3c972cb77c74/edit) on "Linear Regression Using Normal Equations".
 
 
 
