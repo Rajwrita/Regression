@@ -9,5 +9,9 @@ To find the relationship between continuous correlated variables we use linear r
 
 Link to my [Medium Blog](https://medium.com/p/3c972cb77c74/edit) on "Linear Regression Using Normal Equations".
 
+### What is Polynomial Regression?
+Linear Regression works on data where the dependent and independent variable have a linear relationship. But in cases where the data do not have a linear relationship and instead possess a rather complex relationship, then Polynomial Regression is used.
 
+Polynomial Regression is a form of linear regression in which the relationship between the independent variable x and dependent variable y is modeled as an nth degree polynomial. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y |x).
 
+Link to my Medium Blog will be updated soon! :D
