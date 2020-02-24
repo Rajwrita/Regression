@@ -1,7 +1,7 @@
 # Regression
-Data on two variables recorded simultaneously for a group of individuals are called bivariate data. Examples of bivariate data are heights and weights of the students in a class, the rainfall and the yield of paddy in a state for several consecutive years, etc.
+<p>Data on two variables recorded simultaneously for a group of individuals are called bivariate data. Examples of bivariate data are heights and weights of the students in a class, the rainfall and the yield of paddy in a state for several consecutive years, etc.</p>
 
-When we have bivariate data, we can, no doubt, consider the values of each variable separately to know the different measures like the mean and standard deviation of the variable; but here we are mainly concerned with two other problems.
+<p>When we have bivariate data, we can, no doubt, consider the values of each variable separately to know the different measures like the mean and standard deviation of the variable; but here we are mainly concerned with two other problems.</p>
 Firstly, we want to study the nature and extent of association, if any, between the variables. Secondly, if the variables are found to be associated we express one of them (regarded as the dependent variable) as a mathematical function of the other (considered as an independent variable), so that we can predict the value of the dependent variable when the value of the independent variable is known. The first problem is called correlation analysis and the second regression analysis. 
 
 ### What is Linear Regression?
