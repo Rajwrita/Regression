@@ -15,10 +15,10 @@ Polynomial Regression is a form of linear regression in which the relationship b
 Link to my [Medium Blog](https://medium.com/@rajwritanath/linear-regression-using-normal-equations-3c972cb77c74) on "Linear Regression Using Normal Equations and Polynomial Regression".
 
 ### What is Logistic Regression?
-<p>Logistic Regression is an example of a classification algorithm which is used to find a relationship between features and probability of a particular outcome. The term "Logistic" is taken from the Logit function that is used in this method of classification.</p>
-<p>Logistic Regression is tremendously useful in medical diagnosis given some specific symptoms and parameters. Like for example, logistic regression is used to detect early stages of breast cancer given certain parameters like age, past history, genetic factors, etc. </p>
-<p>The name 'Logistic Regression', comes from it's underlying technique which is quite the same as Linear Regression. Like all regression analysis, Logistic regression is an example of predictive analysis. However unlike regular regression, the outcome calculates the predicted probability of mutually exclusive event occurring based on multiple external factors.</p>
-<p>It can thus be considered as a special case of linear regression where the target variable is categorical in nature. Linear regression has a considerable effect on outliers. To avoid this problem, log-odds function or logit function is used. It uses a log of odds as the dependent variable. Logistic Regression predicts the probability of occurrence of a binary event utilizing a logit function.</p>
-<br>
- This repo contains a small sample work that I have done to detect the malignancy of breast cancer based on the [UCL Wisconsin Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)). All necessary explanation will be updated soon!
-Link to my [Medium Blog](https://medium.com/@rajwritanath/logistic-regression-the-the-e8ed646e6a29) on "Logistic Regression".
+Logistic Regression is an example of a classification algorithm which is used to find a relationship between features and probability of a particular outcome. The term "Logistic" is taken from the Logit function that is used in this method of classification.
+Logistic Regression is tremendously useful in medical diagnosis given some specific symptoms and parameters. Like for example, logistic regression is used to detect early stages of breast cancer given certain parameters like age, past history, genetic factors, etc. 
+<p>The name 'Logistic Regression', comes from it's underlying technique which is quite the same as Linear Regression. Like all regression analysis, Logistic regression is an example of predictive analysis. However unlike regular regression, the outcome calculates the predicted probability of mutually exclusive event occurring based on multiple external factors.
+It can thus be considered as a special case of linear regression where the target variable is categorical in nature. Linear regression has a considerable effect on outliers. To avoid this problem, log-odds function or logit function is used. It uses a log of odds as the dependent variable. Logistic Regression predicts the probability of occurrence of a binary event utilizing a logit function.
+
+Link to my [Medium Blog](https://medium.com/@rajwritanath/linear-regression-using-normal-equations-3c972cb77c74) on "Logistic Regression".
+
