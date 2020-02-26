@@ -20,5 +20,6 @@ Logistic Regression is tremendously useful in medical diagnosis given some speci
 <p>The name 'Logistic Regression', comes from it's underlying technique which is quite the same as Linear Regression. Like all regression analysis, Logistic regression is an example of predictive analysis. However unlike regular regression, the outcome calculates the predicted probability of mutually exclusive event occurring based on multiple external factors.
 It can thus be considered as a special case of linear regression where the target variable is categorical in nature. Linear regression has a considerable effect on outliers. To avoid this problem, log-odds function or logit function is used. It uses a log of odds as the dependent variable. Logistic Regression predicts the probability of occurrence of a binary event utilizing a logit function.
 
-Link to my [Medium Blog](https://medium.com/@rajwritanath/linear-regression-using-normal-equations-3c972cb77c74) on "Logistic Regression".
 
+As a small working example of Logistic Regression I have also worked on detecting malignancy of Breast Cancer based on the dataset of  [UCL Wisconsin](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)).
+Link to my [Medium Blog](https://medium.com/@rajwritanath/logistic-regression-the-the-e8ed646e6a29) on "Logistic Regression".
