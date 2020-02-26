@@ -22,4 +22,5 @@ It can thus be considered as a special case of linear regression where the targe
 
 
 As a small working example of Logistic Regression I have also worked on detecting malignancy of Breast Cancer based on the dataset of  [UCL Wisconsin](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)).
+<br>
 Link to my [Medium Blog](https://medium.com/@rajwritanath/logistic-regression-the-the-e8ed646e6a29) on "Logistic Regression".
