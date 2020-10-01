@@ -1,0 +1,11 @@
+-  **Best Online Courses**
+    - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
+    - [AndrewNg | Coursera](https://www.coursera.org/learn/machine-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
+    - [Machine Learning - Nanodegree | Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) :heavy_dollar_sign:
+    - [ Reinforcement Learning - Nanodegree | Udacity](https://in.udacity.com/course/reinforcement-learning--ud600) :heavy_dollar_sign:
+    - [Move 37](https://www.theschool.ai/courses/move-37-course/) - :free:
+    - [ML with Python | YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
+    - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
+    - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
+    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
